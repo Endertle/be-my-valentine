@@ -87,7 +87,10 @@ function App() {
                 <li>🎤 <strong>KTV</strong> - Sing our hearts out! 🎶</li>
                 <li>🎳 <strong>Bowling</strong> - Let's see who wins! 🏆</li>
                 <li>🕹️ <strong>Billiards</strong> - Another fun game</li>
-                <li>🎯 <strong>Archery</strong> - Let's test our aim!</li>
+                <li>🏹 <strong>Archery</strong> - Let's test our aim!</li>
+                <li>🏓 <strong>Table Tennis</strong> - Let's rally!</li>
+                <li>🏀 <strong>Basketball</strong> - Shoot some hoops!</li>
+                <li>⛳ <strong>Interactive Golf</strong> - Let's try this!</li>
               </ul>
               <p className={styles.highlight}>
                 Can't wait to try <strong>KTV</strong> and <strong>Bowling</strong> with you! 💕

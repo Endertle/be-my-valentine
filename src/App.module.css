@@ -10,7 +10,7 @@ body {
   font-family: "Poppins", sans-serif;
   background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #ff9a9e 100%);
   min-height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .container {
